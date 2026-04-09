@@ -3,8 +3,9 @@
 **M.Tech Aerospace Engineering @ IISc Bangalore** · Graduating July 2026  
 2+ years ML experience · Ex-Gestureminds · Ex-UIDAI Technology Centre  
 
-(https://www.linkedin.com/in/priyanshidubey0/)
-(mailto:dubey.priyanshi189@gmail.com)
+linkedin: (https://www.linkedin.com/in/priyanshidubey0/)
+
+Email: (dubey.priyanshi189@gmail.com)
 
 ---
 
