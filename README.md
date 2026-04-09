@@ -45,12 +45,13 @@ Fingerprint authentication pipeline with YOLOv8 segmentation & DenseNet blur det
 
 ## Stack
 
-Data & Analytics   Python · SQL · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
-ML / DL            PyTorch · TensorFlow · HuggingFace · Transformers
-GenAI              LangChain · LangGraph · AutoGen · RAG · VectorDB · LLMs
-Vision             YOLOv8 · OpenCV · MediaPipe · DenseNet
-Deployment         FastAPI · Docker · Streamlit · Redis · W&B
-
+| | |
+|---|---|
+| **Data & Analytics** | Python · SQL · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn |
+| **ML / DL** | PyTorch · TensorFlow · HuggingFace · Transformers |
+| **GenAI** | LangChain · LangGraph · AutoGen · RAG · VectorDB · LLMs |
+| **Vision** | YOLOv8 · OpenCV · MediaPipe · DenseNet |
+| **Deployment** | FastAPI · Docker · Streamlit · Redis · W&B |
 
 ---
 
