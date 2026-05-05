@@ -58,8 +58,4 @@ Fingerprint authentication pipeline with YOLOv8 segmentation & DenseNet blur det
 | **Tools** | BigQuery SQL · CausalImpact · Prophet · Plotly |
 ---
 
-## Background
 
-- 🎓 Dual engineering background — Mechanical (B.Tech) + Aerospace (M.Tech)
-- 🔬 M.Tech research: LLM-driven turbulence prediction with time-series forecasting
-- 📍 Bangalore, India · Open to opportunities from June 2026
